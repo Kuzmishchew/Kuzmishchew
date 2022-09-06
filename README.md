@@ -1,4 +1,4 @@
-### Hi, I am beginner frontend developer.
+### :v: Hi, I am beginner frontend developer.
 
 My name is Maksim. Of course, you could see it in my profile. But I don't mind reminding you of this again.
 
@@ -13,9 +13,11 @@ My portfolio has been updated with the following works:
 - [CV](https://kuzmishchew.github.io/rsschool-cv/ "my personal site"), my "curriculum vitae", or how i call it "my personal site; 
 <img width="300" alt="CV" src="https://user-images.githubusercontent.com/81218729/188485050-bc4e4ce9-5095-465e-93ec-986d8125168d.png">
 
-- [Travel](https://kuzmishchew.github.io/rsschool-travel/travel/ "projet for html, css and little js practic"), landing for Travel company width slider, adaptive layout and registeration pop-up;
+- [Travel](https://kuzmishchew.github.io/rsschool-travel/travel/ "projet for html, css and little js practic"), landing for Travel company with slider, adaptive  and registration pop-up;
 <img width="300" alt="Travel" src="https://user-images.githubusercontent.com/81218729/188488384-9382fe50-0edf-42e7-838b-1d7fbe3a191d.png">
 
+- [Helper for card game](https://kuzmishchew.github.io/codejam-eldritch/ "Eldritch horror"), application wich help get card deck for game. Description available on [link](https://github.com/Luffi2539/eldritch-codejam)
+<img width="300" alt="Eldritch Horror" src="https://user-images.githubusercontent.com/81218729/188659359-9283a9f5-a440-4a16-8379-1f18401c828b.png">
 
 
 
